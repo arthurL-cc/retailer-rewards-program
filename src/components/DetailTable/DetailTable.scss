@@ -1,0 +1,22 @@
+.costomer-detail-table-container {
+    width: 100%;
+
+    table,
+    th,
+    td {
+        border: 1px solid black;
+    }
+
+    .customer-summary-table {
+        width: 100%;
+        border-top: 0;
+        margin-bottom: 5px;
+        background-color: rgba(116, 175, 177, 0.195);
+    }
+
+    .customer-detail-table {
+        width: 100%;
+        border-bottom: 2px solid black;
+        background-color: rgba(167, 204, 167, 0.523);
+    }
+}
